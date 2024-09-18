@@ -1,0 +1,581 @@
+Year,Month - name,Month -sequence,Date,Business Line,"Amount, $",Expense subgroup,Revenue / Expense Group,Revenue or expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,153000,,Sales,Revenue
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,27000,,Consulting and professional services,Revenue
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,6000,,Other income,Revenue
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-9000,Equipment,Opex,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-30000,Marketing,Opex,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-1500,Other,Opex,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-1200,Packaging,COGS,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-2700,Shipping,COGS,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-3000,Sales,COGS,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-65000,Labor,COGS,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-2100,Other,COGS,Expense
+2023,January,1,1/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,22500,,Consulting and professional services,Revenue
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,9000,,Consulting and professional services,Revenue
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,137700,,Sales,Revenue
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,13500,,Consulting and professional services,Revenue
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,3000,,Other income,Revenue
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-9000,Equipment,Opex,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-30000,Marketing,Opex,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-1500,Other,Opex,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-1200,Packaging,COGS,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-2400,Shipping,COGS,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-3000,Sales,COGS,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-65000,Labor,COGS,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-1800,Other,COGS,Expense
+2023,February,1,2/28/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,19800,,Consulting and professional services,Revenue
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,16200,,Consulting and professional services,Revenue
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,114750,,Sales,Revenue
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,9000,,Consulting and professional services,Revenue
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,3600,,Other income,Revenue
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-9000,Equipment,Opex,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-15000,Marketing,Opex,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-900,Other,Opex,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-600,Packaging,COGS,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-1500,Shipping,COGS,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-2100,Sales,COGS,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-65000,Labor,COGS,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-1500,Other,COGS,Expense
+2023,March,1,3/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,90000,,Consulting and professional services,Revenue
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,9000,,Consulting and professional services,Revenue
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,91800,,Sales,Revenue
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,10800,,Consulting and professional services,Revenue
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,3300,,Other income,Revenue
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-9000,Equipment,Opex,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-15000,Marketing,Opex,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-900,Other,Opex,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-600,Packaging,COGS,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-1500,Shipping,COGS,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-1800,Sales,COGS,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-65000,Labor,COGS,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-3000,Other,COGS,Expense
+2023,April,1,4/30/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,10800,,Consulting and professional services,Revenue
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,18900,,Consulting and professional services,Revenue
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,137700,,Sales,Revenue
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,1500,,Other income,Revenue
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-11400,Equipment,Opex,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-30000,Marketing,Opex,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-1200,Other,Opex,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-1200,Packaging,COGS,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-2400,Shipping,COGS,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-2700,Sales,COGS,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-65000,Labor,COGS,Expense
+2023,May,1,5/31/2023,Nutrition and Food Supplements ,-3000,Other,COGS,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,168300,,Sales,Revenue
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,1200,,Other income,Revenue
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-11400,Equipment,Opex,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-30000,Marketing,Opex,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-900,Other,Opex,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-900,Packaging,COGS,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-2700,Shipping,COGS,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-2400,Sales,COGS,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-65000,Labor,COGS,Expense
+2023,June,1,6/30/2023,Nutrition and Food Supplements ,-3000,Other,COGS,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,130050,,Sales,Revenue
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,6000,,Other income,Revenue
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-11400,Equipment,Opex,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-20000,Marketing,Opex,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-600,Other,Opex,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-600,Packaging,COGS,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-1500,Shipping,COGS,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-1800,Sales,COGS,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-50000,Labor,COGS,Expense
+2023,July,1,7/31/2023,Nutrition and Food Supplements ,-3000,Other,COGS,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,114750,,Sales,Revenue
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,3000,,Other income,Revenue
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-11400,Equipment,Opex,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-15000,Marketing,Opex,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-40000,Payroll,Opex,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-600,Other,Opex,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-600,Packaging,COGS,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-1500,Shipping,COGS,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-1800,Sales,COGS,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-50000,Labor,COGS,Expense
+2023,August,1,8/31/2023,Nutrition and Food Supplements ,-3000,Other,COGS,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,122400,,Sales,Revenue
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,3990,,Other income,Revenue
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-11400,Equipment,Opex,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-15000,Marketing,Opex,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-32000,Payroll,Opex,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-900,Other,Opex,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-600,Packaging,COGS,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-1200,Shipping,COGS,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-1800,Sales,COGS,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-50000,Labor,COGS,Expense
+2023,September,1,9/30/2023,Nutrition and Food Supplements ,-2100,Other,COGS,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,110925,,Sales,Revenue
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,9000,,Other income,Revenue
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-12000,Equipment,Opex,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-15000,Marketing,Opex,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-32000,Payroll,Opex,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-600,Other,Opex,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-600,Packaging,COGS,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-1200,Shipping,COGS,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-1800,Sales,COGS,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-50000,Labor,COGS,Expense
+2023,October,1,10/31/2023,Nutrition and Food Supplements ,-2100,Other,COGS,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,108630,,Sales,Revenue
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,6000,,Other income,Revenue
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-12000,Equipment,Opex,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-20000,Marketing,Opex,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-32000,Payroll,Opex,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-1200,Other,Opex,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-900,Packaging,COGS,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-900,Shipping,COGS,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-2100,Sales,COGS,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-50000,Labor,COGS,Expense
+2023,November,1,11/30/2023,Nutrition and Food Supplements ,-1800,Other,COGS,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-12000,Interest and tax,Interest and tax,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,141525,,Sales,Revenue
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,9000,,Other income,Revenue
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-15000,Rent,Opex,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-12000,Equipment,Opex,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-30000,Marketing,Opex,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-32000,Payroll,Opex,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-30000,R&D,Opex,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-2400,Other,Opex,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-20000,Materials,COGS,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-1200,Packaging,COGS,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-2100,Shipping,COGS,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-2700,Sales,COGS,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-50000,Labor,COGS,Expense
+2023,December,1,12/31/2023,Nutrition and Food Supplements ,-2100,Other,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,700000,,Sales,Revenue
+2023,January,1,1/31/2023,Sports equipment,24000,,Other income,Revenue
+2023,January,1,1/31/2023,Sports equipment,-18000,Rent,Opex,Expense
+2023,January,1,1/31/2023,Sports equipment,-54000,Equipment,Opex,Expense
+2023,January,1,1/31/2023,Sports equipment,-50000,Marketing,Opex,Expense
+2023,January,1,1/31/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,January,1,1/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,January,1,1/31/2023,Sports equipment,-14400,Other,Opex,Expense
+2023,January,1,1/31/2023,Sports equipment,-50000,Materials,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,-6000,Packaging,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,-130000,Shipping,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,-30000,Sales,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,-180000,Labor,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,January,1,1/31/2023,Sports equipment,21000,,Other income,Revenue
+2023,January,1,1/31/2023,Sports equipment,-49000,Interest and tax,Interest and tax,Expense
+2023,February,1,2/28/2023,Sports equipment,600000,,Sales,Revenue
+2023,February,1,2/28/2023,Sports equipment,36000,,Other income,Revenue
+2023,February,1,2/28/2023,Sports equipment,-27000,Rent,Opex,Expense
+2023,February,1,2/28/2023,Sports equipment,-54000,Equipment,Opex,Expense
+2023,February,1,2/28/2023,Sports equipment,-50000,Marketing,Opex,Expense
+2023,February,1,2/28/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,February,1,2/28/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,February,1,2/28/2023,Sports equipment,-9000,Other,Opex,Expense
+2023,February,1,2/28/2023,Sports equipment,-20000,Materials,COGS,Expense
+2023,February,1,2/28/2023,Sports equipment,-5000,Packaging,COGS,Expense
+2023,February,1,2/28/2023,Sports equipment,-12000,Shipping,COGS,Expense
+2023,February,1,2/28/2023,Sports equipment,-25000,Sales,COGS,Expense
+2023,February,1,2/28/2023,Sports equipment,-180000,Labor,COGS,Expense
+2023,February,1,2/28/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,February,1,2/28/2023,Sports equipment,19500,,Other income,Revenue
+2023,February,1,2/28/2023,Sports equipment,-48500,Interest and tax,Interest and tax,Expense
+2023,March,1,3/31/2023,Sports equipment,550000,,Sales,Revenue
+2023,March,1,3/31/2023,Sports equipment,24000,,Other income,Revenue
+2023,March,1,3/31/2023,Sports equipment,-27000,Rent,Opex,Expense
+2023,March,1,3/31/2023,Sports equipment,-54000,Equipment,Opex,Expense
+2023,March,1,3/31/2023,Sports equipment,-30000,Marketing,Opex,Expense
+2023,March,1,3/31/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,March,1,3/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,March,1,3/31/2023,Sports equipment,-5400,Other,Opex,Expense
+2023,March,1,3/31/2023,Sports equipment,-54000,Materials,COGS,Expense
+2023,March,1,3/31/2023,Sports equipment,-3600,Packaging,COGS,Expense
+2023,March,1,3/31/2023,Sports equipment,-9000,Shipping,COGS,Expense
+2023,March,1,3/31/2023,Sports equipment,-12600,Sales,COGS,Expense
+2023,March,1,3/31/2023,Sports equipment,-180000,Labor,COGS,Expense
+2023,March,1,3/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,March,1,3/31/2023,Sports equipment,19500,,Other income,Revenue
+2023,March,1,3/31/2023,Sports equipment,-37000,Interest and tax,Interest and tax,Expense
+2023,April,1,4/30/2023,Sports equipment,490000,,Sales,Revenue
+2023,April,1,4/30/2023,Sports equipment,30000,,Other income,Revenue
+2023,April,1,4/30/2023,Sports equipment,-27000,Rent,Opex,Expense
+2023,April,1,4/30/2023,Sports equipment,-54000,Equipment,Opex,Expense
+2023,April,1,4/30/2023,Sports equipment,-30000,Marketing,Opex,Expense
+2023,April,1,4/30/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,April,1,4/30/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,April,1,4/30/2023,Sports equipment,-5400,Other,Opex,Expense
+2023,April,1,4/30/2023,Sports equipment,-25000,Materials,COGS,Expense
+2023,April,1,4/30/2023,Sports equipment,-3600,Packaging,COGS,Expense
+2023,April,1,4/30/2023,Sports equipment,-9000,Shipping,COGS,Expense
+2023,April,1,4/30/2023,Sports equipment,-10800,Sales,COGS,Expense
+2023,April,1,4/30/2023,Sports equipment,-180000,Labor,COGS,Expense
+2023,April,1,4/30/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,April,1,4/30/2023,Sports equipment,19500,,Other income,Revenue
+2023,April,1,4/30/2023,Sports equipment,-27200,Interest and tax,Interest and tax,Expense
+2023,January,1,1/31/2023,Sports equipment,288000,,Consulting and professional services,Revenue
+2023,May,1,5/31/2023,Sports equipment,700000,,Sales,Revenue
+2023,February,1,2/28/2023,Sports equipment,120000,,Consulting and professional services,Revenue
+2023,May,1,5/31/2023,Sports equipment,19500,,Other income,Revenue
+2023,May,1,5/31/2023,Sports equipment,-27000,Rent,Opex,Expense
+2023,May,1,5/31/2023,Sports equipment,-68400,Equipment,Opex,Expense
+2023,May,1,5/31/2023,Sports equipment,-50000,Marketing,Opex,Expense
+2023,May,1,5/31/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,May,1,5/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,May,1,5/31/2023,Sports equipment,-7200,Other,Opex,Expense
+2023,May,1,5/31/2023,Sports equipment,-54000,Materials,COGS,Expense
+2023,May,1,5/31/2023,Sports equipment,-5000,Packaging,COGS,Expense
+2023,May,1,5/31/2023,Sports equipment,-14000,Shipping,COGS,Expense
+2023,May,1,5/31/2023,Sports equipment,-40000,Sales,COGS,Expense
+2023,May,1,5/31/2023,Sports equipment,-234000,Labor,COGS,Expense
+2023,May,1,5/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,May,1,5/31/2023,Sports equipment,-41800,Interest and tax,Interest and tax,Expense
+2023,March,1,3/31/2023,Sports equipment,126000,,Consulting and professional services,Revenue
+2023,April,1,4/30/2023,Sports equipment,90000,,Consulting and professional services,Revenue
+2023,June,1,6/30/2023,Sports equipment,600000,,Sales,Revenue
+2023,May,1,5/31/2023,Sports equipment,129000,,Consulting and professional services,Revenue
+2023,June,1,6/30/2023,Sports equipment,19500,,Other income,Revenue
+2023,June,1,6/30/2023,Sports equipment,-27000,Rent,Opex,Expense
+2023,June,1,6/30/2023,Sports equipment,-68400,Equipment,Opex,Expense
+2023,June,1,6/30/2023,Sports equipment,-50000,Marketing,Opex,Expense
+2023,June,1,6/30/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,June,1,6/30/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,June,1,6/30/2023,Sports equipment,-5400,Other,Opex,Expense
+2023,June,1,6/30/2023,Sports equipment,-54000,Materials,COGS,Expense
+2023,June,1,6/30/2023,Sports equipment,-5000,Packaging,COGS,Expense
+2023,June,1,6/30/2023,Sports equipment,-13000,Shipping,COGS,Expense
+2023,June,1,6/30/2023,Sports equipment,-35000,Sales,COGS,Expense
+2023,June,1,6/30/2023,Sports equipment,-234000,Labor,COGS,Expense
+2023,June,1,6/30/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,June,1,6/30/2023,Sports equipment,-21700,Interest and tax,Interest and tax,Expense
+2023,June,1,6/30/2023,Sports equipment,165000,,Consulting and professional services,Revenue
+2023,July,1,7/31/2023,Sports equipment,100500,,Consulting and professional services,Revenue
+2023,July,1,7/31/2023,Sports equipment,600000,,Sales,Revenue
+2023,August,1,8/31/2023,Sports equipment,60000,,Consulting and professional services,Revenue
+2023,July,1,7/31/2023,Sports equipment,21000,,Other income,Revenue
+2023,July,1,7/31/2023,Sports equipment,-27000,Rent,Opex,Expense
+2023,July,1,7/31/2023,Sports equipment,-68400,Equipment,Opex,Expense
+2023,July,1,7/31/2023,Sports equipment,-40000,Marketing,Opex,Expense
+2023,July,1,7/31/2023,Sports equipment,-60000,Payroll,Opex,Expense
+2023,July,1,7/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,July,1,7/31/2023,Sports equipment,-3600,Other,Opex,Expense
+2023,July,1,7/31/2023,Sports equipment,-54000,Materials,COGS,Expense
+2023,July,1,7/31/2023,Sports equipment,-3600,Packaging,COGS,Expense
+2023,July,1,7/31/2023,Sports equipment,-9000,Shipping,COGS,Expense
+2023,July,1,7/31/2023,Sports equipment,-10800,Sales,COGS,Expense
+2023,July,1,7/31/2023,Sports equipment,-234000,Labor,COGS,Expense
+2023,July,1,7/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,July,1,7/31/2023,Sports equipment,-27000,Interest and tax,Interest and tax,Expense
+2023,September,1,9/30/2023,Sports equipment,69000,,Consulting and professional services,Revenue
+2023,October,1,10/31/2023,Sports equipment,60000,,Consulting and professional services,Revenue
+2023,August,1,8/31/2023,Sports equipment,550000,,Sales,Revenue
+2023,November,1,11/30/2023,Sports equipment,57000,,Consulting and professional services,Revenue
+2023,August,1,8/31/2023,Sports equipment,24600,,Other income,Revenue
+2023,August,1,8/31/2023,Sports equipment,-36000,Rent,Opex,Expense
+2023,August,1,8/31/2023,Sports equipment,-68400,Equipment,Opex,Expense
+2023,August,1,8/31/2023,Sports equipment,-20000,Marketing,Opex,Expense
+2023,August,1,8/31/2023,Sports equipment,-55000,Payroll,Opex,Expense
+2023,August,1,8/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,August,1,8/31/2023,Sports equipment,-3600,Other,Opex,Expense
+2023,August,1,8/31/2023,Sports equipment,-54000,Materials,COGS,Expense
+2023,August,1,8/31/2023,Sports equipment,-3600,Packaging,COGS,Expense
+2023,August,1,8/31/2023,Sports equipment,-9000,Shipping,COGS,Expense
+2023,August,1,8/31/2023,Sports equipment,-10800,Sales,COGS,Expense
+2023,August,1,8/31/2023,Sports equipment,-200000,Labor,COGS,Expense
+2023,August,1,8/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,August,1,8/31/2023,Sports equipment,-23800,Interest and tax,Interest and tax,Expense
+2023,December,1,12/31/2023,Sports equipment,126000,,Consulting and professional services,Revenue
+2023,September,1,9/30/2023,Sports equipment,400000,,Sales,Revenue
+2023,September,1,9/30/2023,Sports equipment,21900,,Other income,Revenue
+2023,September,1,9/30/2023,Sports equipment,-36000,Rent,Opex,Expense
+2023,September,1,9/30/2023,Sports equipment,-68400,Equipment,Opex,Expense
+2023,September,1,9/30/2023,Sports equipment,-20000,Marketing,Opex,Expense
+2023,September,1,9/30/2023,Sports equipment,-70000,Payroll,Opex,Expense
+2023,September,1,9/30/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,September,1,9/30/2023,Sports equipment,-5400,Other,Opex,Expense
+2023,September,1,9/30/2023,Sports equipment,-25000,Materials,COGS,Expense
+2023,September,1,9/30/2023,Sports equipment,-3600,Packaging,COGS,Expense
+2023,September,1,9/30/2023,Sports equipment,-10000,Shipping,COGS,Expense
+2023,September,1,9/30/2023,Sports equipment,-30000,Sales,COGS,Expense
+2023,September,1,9/30/2023,Sports equipment,-200000,Labor,COGS,Expense
+2023,September,1,9/30/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,September,1,9/30/2023,Sports equipment,-15000,Interest and tax,Interest and tax,Expense
+2023,October,1,10/31/2023,Sports equipment,600000,,Sales,Revenue
+2023,October,1,10/31/2023,Sports equipment,30000,,Other income,Revenue
+2023,October,1,10/31/2023,Sports equipment,-36000,Rent,Opex,Expense
+2023,October,1,10/31/2023,Sports equipment,-72000,Equipment,Opex,Expense
+2023,October,1,10/31/2023,Sports equipment,-20000,Marketing,Opex,Expense
+2023,October,1,10/31/2023,Sports equipment,-70000,Payroll,Opex,Expense
+2023,October,1,10/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,October,1,10/31/2023,Sports equipment,-3600,Other,Opex,Expense
+2023,October,1,10/31/2023,Sports equipment,-25000,Materials,COGS,Expense
+2023,October,1,10/31/2023,Sports equipment,-3600,Packaging,COGS,Expense
+2023,October,1,10/31/2023,Sports equipment,-10000,Shipping,COGS,Expense
+2023,October,1,10/31/2023,Sports equipment,-30000,Sales,COGS,Expense
+2023,October,1,10/31/2023,Sports equipment,-200000,Labor,COGS,Expense
+2023,October,1,10/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,October,1,10/31/2023,Sports equipment,-34300,Interest and tax,Interest and tax,Expense
+2023,November,1,11/30/2023,Sports equipment,600000,,Sales,Revenue
+2023,November,1,11/30/2023,Sports equipment,21000,,Other income,Revenue
+2023,November,1,11/30/2023,Sports equipment,-36000,Rent,Opex,Expense
+2023,November,1,11/30/2023,Sports equipment,-72000,Equipment,Opex,Expense
+2023,November,1,11/30/2023,Sports equipment,-30000,Marketing,Opex,Expense
+2023,November,1,11/30/2023,Sports equipment,-70000,Payroll,Opex,Expense
+2023,November,1,11/30/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,November,1,11/30/2023,Sports equipment,-7200,Other,Opex,Expense
+2023,November,1,11/30/2023,Sports equipment,-25000,Materials,COGS,Expense
+2023,November,1,11/30/2023,Sports equipment,-5400,Packaging,COGS,Expense
+2023,November,1,11/30/2023,Sports equipment,-12000,Shipping,COGS,Expense
+2023,November,1,11/30/2023,Sports equipment,-45000,Sales,COGS,Expense
+2023,November,1,11/30/2023,Sports equipment,-200000,Labor,COGS,Expense
+2023,November,1,11/30/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,November,1,11/30/2023,Sports equipment,-25200,Interest and tax,Interest and tax,Expense
+2023,December,1,12/31/2023,Sports equipment,750000,,Sales,Revenue
+2023,December,1,12/31/2023,Sports equipment,27000,,Other income,Revenue
+2023,December,1,12/31/2023,Sports equipment,-36000,Rent,Opex,Expense
+2023,December,1,12/31/2023,Sports equipment,-72000,Equipment,Opex,Expense
+2023,December,1,12/31/2023,Sports equipment,-50000,Marketing,Opex,Expense
+2023,December,1,12/31/2023,Sports equipment,-70000,Payroll,Opex,Expense
+2023,December,1,12/31/2023,Sports equipment,-10000,R&D,Opex,Expense
+2023,December,1,12/31/2023,Sports equipment,-14400,Other,Opex,Expense
+2023,December,1,12/31/2023,Sports equipment,-25000,Materials,COGS,Expense
+2023,December,1,12/31/2023,Sports equipment,-6000,Packaging,COGS,Expense
+2023,December,1,12/31/2023,Sports equipment,-15000,Shipping,COGS,Expense
+2023,December,1,12/31/2023,Sports equipment,-50000,Sales,COGS,Expense
+2023,December,1,12/31/2023,Sports equipment,-200000,Labor,COGS,Expense
+2023,December,1,12/31/2023,Sports equipment,-12600,Other,COGS,Expense
+2023,December,1,12/31/2023,Sports equipment,-60000,Interest and tax,Interest and tax,Expense
+2023,January,1,1/31/2023,Sportswear,510000,,Sales,Revenue
+2023,January,1,1/31/2023,Sportswear,40000,,Other income,Revenue
+2023,January,1,1/31/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,January,1,1/31/2023,Sportswear,-30000,Equipment,Opex,Expense
+2023,January,1,1/31/2023,Sportswear,-40000,Marketing,Opex,Expense
+2023,January,1,1/31/2023,Sportswear,-52000,Payroll,Opex,Expense
+2023,January,1,1/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,January,1,1/31/2023,Sportswear,-5000,Other,Opex,Expense
+2023,January,1,1/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,-4000,Packaging,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,-9000,Shipping,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,-10000,Sales,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,-100000,Labor,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,-7000,Other,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,-52000,Interest and tax,Interest and tax,Expense
+2023,February,1,2/28/2023,Sportswear,-39000,Interest and tax,Interest and tax,Expense
+2023,February,1,2/28/2023,Sportswear,459000,,Sales,Revenue
+2023,February,1,2/28/2023,Sportswear,20000,,Other income,Revenue
+2023,February,1,2/28/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,February,1,2/28/2023,Sportswear,-30000,Equipment,Opex,Expense
+2023,February,1,2/28/2023,Sportswear,-40000,Marketing,Opex,Expense
+2023,February,1,2/28/2023,Sportswear,-52000,Payroll,Opex,Expense
+2023,February,1,2/28/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,February,1,2/28/2023,Sportswear,-5000,Other,Opex,Expense
+2023,February,1,2/28/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,February,1,2/28/2023,Sportswear,-4000,Packaging,COGS,Expense
+2023,February,1,2/28/2023,Sportswear,-8000,Shipping,COGS,Expense
+2023,February,1,2/28/2023,Sportswear,-10000,Sales,COGS,Expense
+2023,February,1,2/28/2023,Sportswear,-100000,Labor,COGS,Expense
+2023,February,1,2/28/2023,Sportswear,-7000,Other,COGS,Expense
+2023,March,1,3/31/2023,Sportswear,-27000,Interest and tax,Interest and tax,Expense
+2023,March,1,3/31/2023,Sportswear,382500,,Sales,Revenue
+2023,March,1,3/31/2023,Sportswear,24000,,Other income,Revenue
+2023,March,1,3/31/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,March,1,3/31/2023,Sportswear,-30000,Equipment,Opex,Expense
+2023,March,1,3/31/2023,Sportswear,-20000,Marketing,Opex,Expense
+2023,March,1,3/31/2023,Sportswear,-52000,Payroll,Opex,Expense
+2023,March,1,3/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,March,1,3/31/2023,Sportswear,-3000,Other,Opex,Expense
+2023,March,1,3/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,March,1,3/31/2023,Sportswear,-2000,Packaging,COGS,Expense
+2023,March,1,3/31/2023,Sportswear,-5000,Shipping,COGS,Expense
+2023,March,1,3/31/2023,Sportswear,-7000,Sales,COGS,Expense
+2023,March,1,3/31/2023,Sportswear,-100000,Labor,COGS,Expense
+2023,March,1,3/31/2023,Sportswear,-7000,Other,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,-20000,Interest and tax,Interest and tax,Expense
+2023,April,1,4/30/2023,Sportswear,306000,,Sales,Revenue
+2023,April,1,4/30/2023,Sportswear,22000,,Other income,Revenue
+2023,April,1,4/30/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,April,1,4/30/2023,Sportswear,-30000,Equipment,Opex,Expense
+2023,April,1,4/30/2023,Sportswear,-20000,Marketing,Opex,Expense
+2023,April,1,4/30/2023,Sportswear,-52000,Payroll,Opex,Expense
+2023,April,1,4/30/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,April,1,4/30/2023,Sportswear,-3000,Other,Opex,Expense
+2023,April,1,4/30/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,-2000,Packaging,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,-5000,Shipping,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,-6000,Sales,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,-100000,Labor,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,-7000,Other,COGS,Expense
+2023,May,1,5/31/2023,Sportswear,-31000,Interest and tax,Interest and tax,Expense
+2023,May,1,5/31/2023,Sportswear,459000,,Sales,Revenue
+2023,May,1,5/31/2023,Sportswear,100000,,Other income,Revenue
+2023,May,1,5/31/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,May,1,5/31/2023,Sportswear,-38000,Equipment,Opex,Expense
+2023,May,1,5/31/2023,Sportswear,-40000,Marketing,Opex,Expense
+2023,May,1,5/31/2023,Sportswear,-52000,Payroll,Opex,Expense
+2023,May,1,5/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,May,1,5/31/2023,Sportswear,-4000,Other,Opex,Expense
+2023,May,1,5/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,May,1,5/31/2023,Sportswear,-4000,Packaging,COGS,Expense
+2023,May,1,5/31/2023,Sportswear,-8000,Shipping,COGS,Expense
+2023,May,1,5/31/2023,Sportswear,-9000,Sales,COGS,Expense
+2023,May,1,5/31/2023,Sportswear,-130000,Labor,COGS,Expense
+2023,May,1,5/31/2023,Sportswear,-7000,Other,COGS,Expense
+2023,June,1,6/30/2023,Sportswear,-56700,Interest and tax,Interest and tax,Expense
+2023,June,1,6/30/2023,Sportswear,561000,,Sales,Revenue
+2023,June,1,6/30/2023,Sportswear,80000,,Other income,Revenue
+2023,June,1,6/30/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,June,1,6/30/2023,Sportswear,-38000,Equipment,Opex,Expense
+2023,June,1,6/30/2023,Sportswear,-40000,Marketing,Opex,Expense
+2023,June,1,6/30/2023,Sportswear,-52000,Payroll,Opex,Expense
+2023,June,1,6/30/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,June,1,6/30/2023,Sportswear,-3000,Other,Opex,Expense
+2023,June,1,6/30/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,June,1,6/30/2023,Sportswear,-3000,Packaging,COGS,Expense
+2023,June,1,6/30/2023,Sportswear,-9000,Shipping,COGS,Expense
+2023,June,1,6/30/2023,Sportswear,-8000,Sales,COGS,Expense
+2023,June,1,6/30/2023,Sportswear,-130000,Labor,COGS,Expense
+2023,June,1,6/30/2023,Sportswear,-7000,Other,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,-30300,Interest and tax,Interest and tax,Expense
+2023,July,1,7/31/2023,Sportswear,433500,,Sales,Revenue
+2023,July,1,7/31/2023,Sportswear,40000,,Other income,Revenue
+2023,July,1,7/31/2023,Sportswear,-15000,Rent,Opex,Expense
+2023,July,1,7/31/2023,Sportswear,-38000,Equipment,Opex,Expense
+2023,July,1,7/31/2023,Sportswear,-30000,Marketing,Opex,Expense
+2023,July,1,7/31/2023,Sportswear,-45000,Payroll,Opex,Expense
+2023,July,1,7/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,July,1,7/31/2023,Sportswear,-2000,Other,Opex,Expense
+2023,July,1,7/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,-2000,Packaging,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,-5000,Shipping,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,-6000,Sales,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,-130000,Labor,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,-7000,Other,COGS,Expense
+2023,August,1,8/31/2023,Sportswear,-18600,Interest and tax,Interest and tax,Expense
+2023,August,1,8/31/2023,Sportswear,382500,,Sales,Revenue
+2023,August,1,8/31/2023,Sportswear,20000,,Other income,Revenue
+2023,August,1,8/31/2023,Sportswear,-20000,Rent,Opex,Expense
+2023,August,1,8/31/2023,Sportswear,-38000,Equipment,Opex,Expense
+2023,August,1,8/31/2023,Sportswear,-20000,Marketing,Opex,Expense
+2023,August,1,8/31/2023,Sportswear,-45000,Payroll,Opex,Expense
+2023,August,1,8/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,August,1,8/31/2023,Sportswear,-2000,Other,Opex,Expense
+2023,August,1,8/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,August,1,8/31/2023,Sportswear,-2000,Packaging,COGS,Expense
+2023,August,1,8/31/2023,Sportswear,-5000,Shipping,COGS,Expense
+2023,August,1,8/31/2023,Sportswear,-6000,Sales,COGS,Expense
+2023,August,1,8/31/2023,Sportswear,-130000,Labor,COGS,Expense
+2023,August,1,8/31/2023,Sportswear,-7000,Other,COGS,Expense
+2023,January,1,1/31/2023,Sportswear,180000,,Consulting and professional services,Revenue
+2023,February,1,2/28/2023,Sportswear,150000,,Consulting and professional services,Revenue
+2023,September,1,9/30/2023,Sportswear,-26300,Interest and tax,Interest and tax,Expense
+2023,September,1,9/30/2023,Sportswear,408000,,Sales,Revenue
+2023,March,1,3/31/2023,Sportswear,60000,,Consulting and professional services,Revenue
+2023,September,1,9/30/2023,Sportswear,26600,,Other income,Revenue
+2023,September,1,9/30/2023,Sportswear,-20000,Rent,Opex,Expense
+2023,September,1,9/30/2023,Sportswear,-38000,Equipment,Opex,Expense
+2023,September,1,9/30/2023,Sportswear,-15000,Marketing,Opex,Expense
+2023,September,1,9/30/2023,Sportswear,-45000,Payroll,Opex,Expense
+2023,September,1,9/30/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,September,1,9/30/2023,Sportswear,-3000,Other,Opex,Expense
+2023,September,1,9/30/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,September,1,9/30/2023,Sportswear,-2000,Packaging,COGS,Expense
+2023,September,1,9/30/2023,Sportswear,-4000,Shipping,COGS,Expense
+2023,September,1,9/30/2023,Sportswear,-6000,Sales,COGS,Expense
+2023,September,1,9/30/2023,Sportswear,-130000,Labor,COGS,Expense
+2023,September,1,9/30/2023,Sportswear,-7000,Other,COGS,Expense
+2023,April,1,4/30/2023,Sportswear,90000,,Consulting and professional services,Revenue
+2023,May,1,5/31/2023,Sportswear,132000,,Consulting and professional services,Revenue
+2023,October,1,10/31/2023,Sportswear,-22000,Interest and tax,Interest and tax,Expense
+2023,October,1,10/31/2023,Sportswear,369750,,Sales,Revenue
+2023,June,1,6/30/2023,Sportswear,108000,,Consulting and professional services,Revenue
+2023,October,1,10/31/2023,Sportswear,60000,,Other income,Revenue
+2023,October,1,10/31/2023,Sportswear,-20000,Rent,Opex,Expense
+2023,October,1,10/31/2023,Sportswear,-40000,Equipment,Opex,Expense
+2023,October,1,10/31/2023,Sportswear,-15000,Marketing,Opex,Expense
+2023,October,1,10/31/2023,Sportswear,-45000,Payroll,Opex,Expense
+2023,October,1,10/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,October,1,10/31/2023,Sportswear,-2000,Other,Opex,Expense
+2023,October,1,10/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,October,1,10/31/2023,Sportswear,-2000,Packaging,COGS,Expense
+2023,October,1,10/31/2023,Sportswear,-4000,Shipping,COGS,Expense
+2023,October,1,10/31/2023,Sportswear,-6000,Sales,COGS,Expense
+2023,October,1,10/31/2023,Sportswear,-110000,Labor,COGS,Expense
+2023,October,1,10/31/2023,Sportswear,-7000,Other,COGS,Expense
+2023,July,1,7/31/2023,Sportswear,60000,,Consulting and professional services,Revenue
+2023,August,1,8/31/2023,Sportswear,60000,,Consulting and professional services,Revenue
+2023,November,1,11/30/2023,Sportswear,-15300,Interest and tax,Interest and tax,Expense
+2023,November,1,11/30/2023,Sportswear,362100,,Sales,Revenue
+2023,September,1,9/30/2023,Sportswear,60000,,Consulting and professional services,Revenue
+2023,November,1,11/30/2023,Sportswear,40000,,Other income,Revenue
+2023,November,1,11/30/2023,Sportswear,-20000,Rent,Opex,Expense
+2023,November,1,11/30/2023,Sportswear,-40000,Equipment,Opex,Expense
+2023,November,1,11/30/2023,Sportswear,-30000,Marketing,Opex,Expense
+2023,November,1,11/30/2023,Sportswear,-45000,Payroll,Opex,Expense
+2023,November,1,11/30/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,November,1,11/30/2023,Sportswear,-4000,Other,Opex,Expense
+2023,November,1,11/30/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,November,1,11/30/2023,Sportswear,-3000,Packaging,COGS,Expense
+2023,November,1,11/30/2023,Sportswear,-3000,Shipping,COGS,Expense
+2023,November,1,11/30/2023,Sportswear,-7000,Sales,COGS,Expense
+2023,November,1,11/30/2023,Sportswear,-110000,Labor,COGS,Expense
+2023,November,1,11/30/2023,Sportswear,-7000,Other,COGS,Expense
+2023,October,1,10/31/2023,Sportswear,72000,,Consulting and professional services,Revenue
+2023,November,1,11/30/2023,Sportswear,72000,,Consulting and professional services,Revenue
+2023,December,1,12/31/2023,Sportswear,-36700,Interest and tax,Interest and tax,Expense
+2023,December,1,12/31/2023,Sportswear,471750,,Sales,Revenue
+2023,December,1,12/31/2023,Sportswear,126000,,Consulting and professional services,Revenue
+2023,December,1,12/31/2023,Sportswear,60000,,Other income,Revenue
+2023,December,1,12/31/2023,Sportswear,-20000,Rent,Opex,Expense
+2023,December,1,12/31/2023,Sportswear,-40000,Equipment,Opex,Expense
+2023,December,1,12/31/2023,Sportswear,-40000,Marketing,Opex,Expense
+2023,December,1,12/31/2023,Sportswear,-50000,Payroll,Opex,Expense
+2023,December,1,12/31/2023,Sportswear,-5000,R&D,Opex,Expense
+2023,December,1,12/31/2023,Sportswear,-8000,Other,Opex,Expense
+2023,December,1,12/31/2023,Sportswear,-30000,Materials,COGS,Expense
+2023,December,1,12/31/2023,Sportswear,-4000,Packaging,COGS,Expense
+2023,December,1,12/31/2023,Sportswear,-7000,Shipping,COGS,Expense
+2023,December,1,12/31/2023,Sportswear,-9000,Sales,COGS,Expense
+2023,December,1,12/31/2023,Sportswear,-110000,Labor,COGS,Expense
+2023,December,1,12/31/2023,Sportswear,-7000,Other,COGS,Expense
